@@ -38,10 +38,10 @@ email2:pass2
 ```
 
 ### Proxy Setup (Optional)
-Create a file named `proxy.txt` in the project root with the following format:
+Create a file named `proxy.txt` in the project root with the following format (Each account corresponds to 1 proxy line):
 ```
-host1:port:username:password
-host2:port:username:password
+http://username:password@host1:port
+http://username:password@host2:port
 ```
 or for proxies without authentication:
 ```
