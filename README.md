@@ -43,12 +43,6 @@ Create a file named `proxy.txt` in the project root with the following format (E
 http://username:password@host1:port
 http://username:password@host2:port
 ```
-or for proxies without authentication:
-```
-host1:port
-host2:port
-```
-
 ## Usage
 Run the bot:
 ```bash
