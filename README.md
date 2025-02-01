@@ -21,7 +21,7 @@ An automated bot for managing airdrop tasks using multiple accounts and proxy su
 1. Clone the repository
 ```bash
 git clone https://github.com/elsuselamos/minionlab-bot.git
-cd MinionLab-Auto-Bot
+cd minionlab-bot
 ```
 2. Install dependencies:
 ```bash
