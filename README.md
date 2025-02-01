@@ -33,20 +33,20 @@ npm install
 ### Accounts Setup
 Create a file named `accounts.txt` in the project root with the following format:
 ```
-email1@example.com:password1
-email2@example.com:password2
+email1:pass1
+email2:pass2
 ```
 
 ### Proxy Setup (Optional)
 Create a file named `proxy.txt` in the project root with the following format:
 ```
-ip:port:username:password
-ip:port:username:password
+host1:port:username:password
+host2:port:username:password
 ```
 or for proxies without authentication:
 ```
-ip:port
-ip:port
+host1:port
+host2:port
 ```
 
 ## Usage
