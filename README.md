@@ -1,5 +1,5 @@
 
-# Minion Lab Auto Bot
+# MinionLab Bot Automation
 ## Register Account:
 Go to [**Minion Dashboard**](https://app.minionlab.ai/?referralCode=dsFkJhkQ) to register account
 ##
